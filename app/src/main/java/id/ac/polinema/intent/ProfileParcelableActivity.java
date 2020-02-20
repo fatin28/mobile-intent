@@ -5,6 +5,8 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import id.ac.polinema.intent.model.User;
+
 import static id.ac.polinema.intent.ParcelableActivity.USER_KEY;
 
 public class ProfileParcelableActivity extends AppCompatActivity {

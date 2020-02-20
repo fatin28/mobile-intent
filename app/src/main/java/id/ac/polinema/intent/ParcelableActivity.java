@@ -7,6 +7,8 @@ import android.widget.EditText;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import id.ac.polinema.intent.model.User;
+
 public class ParcelableActivity extends AppCompatActivity {
 
     public static final String USER_KEY = "user";
